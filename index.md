@@ -10,3 +10,16 @@ GitHub: Please take a look at my repositories: [[Van Tran GitHub Pages](https://
 Thank you for stopping by!
 
 
+# Some of my projects ...
+
+Below are some of the projects that I have worked on during my time at the University of Iowa.
+
+#1. Predicting manufactured house prices pre- and post-COVID19 
+
+In this project, we collected data from https://www.census.gov/data/datasets/2021/econ/MHS/puf.html in order to predict manufactured house prices using two different models (pre and post COVID). Through our models, we also analyzed the impact of COVID-19 on housing prices.
+Our analysis was done using Python. 
+
+#2. Calculating interest rate using Vasicek model 
+
+In this project, I built a simple Python program to calculate interest rate using the Vasicek model.
+
