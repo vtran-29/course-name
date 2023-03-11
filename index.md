@@ -12,7 +12,7 @@ I am Van Tran - a Master's of Business Analytics and Masters' of Finance student
 
 # Some of my projects ...
 
-Below are some of the projects that I have worked on during my time at the University of Iowa.
+Below are some of the projects that I have worked on during my time at the University of Iowa:
 
 ## 1. Predicting manufactured house prices pre- and post-COVID19 
 
